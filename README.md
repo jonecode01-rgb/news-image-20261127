@@ -55,8 +55,8 @@ country outlines) are all code. `main.ts` copies the rendered
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
-`entry.png` is 1024x1024, 212,760 bytes, sha256
-`72e57107bfc30f037152f0c61f4ac54fb1bbbb7ddbf1d07d96fc55a881c7afb8`.
+`entry.png` is 1024x1024, 212,840 bytes, sha256
+`6a4dfd94dd1dbea7ad7e2f0c75e85360f7a2886356ae9c7e42f0a8207e9dceaf`.
 
 ## Licence
 
